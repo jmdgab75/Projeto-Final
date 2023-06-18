@@ -1,5 +1,7 @@
 "use client"
 import Link from 'next/link';
+import Header from '../../components/nav';
+import './page.css'
 
 export default async function Home() {
 
@@ -9,11 +11,11 @@ export default async function Home() {
   const produto = await req.json();
 
   return (
-    <main> <Link href="/cadastro" className='voltar'> CADASTRAR </Link>
-
+    <main>
+    <Header></Header>
       {produto.map(produto => (
         <div key={produto.id}>
-          <img src={produto.imagem}></img>
+          <img src={produto.imagem} className='imgproduto'></img>
           <p>{produto.titulo}</p>
           <p>{produto.preco}</p>
           <Link href={`/produto/${produto.id}`}>Ver mais</Link>

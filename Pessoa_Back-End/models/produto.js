@@ -25,8 +25,8 @@ class Produto {
   static async insert(data) {
     try {
       const connect = await db.connect();
-      const sql = "INSERT INTO produto(id, titulo, data_cadastro, preco, descricao, imagem) VALUES ($1, $2, $3) RETURNING id, titulo, data_cadastro, preco, descricao, imagem;";
-      const values = [data.nome, data.idade, data.uf];
+      const sql = "INSERT INTO produto(titulo, data_cadastro, preco, descricao, imagem) VALUES ($1, $2, $3, $4, $5)";
+      const values = [data.titulo, data.data_cadastro, data.preco, data.descricao, data.imagem];
       return await connect.query(sql, values);
     } catch (error) {
       console.error('Erro em insert:', error);
