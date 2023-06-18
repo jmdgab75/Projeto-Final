@@ -11,16 +11,20 @@ export default async function Home() {
   const produto = await req.json();
 
   return (
-    <main>
+<main>
     <Header></Header>
-      {produto.map(produto => (
-        <div key={produto.id}>
+   <div className='cards'>
+   {produto.map(produto => (
+        <div key={produto.id} className='card'>
           <img src={produto.imagem} className='imgproduto'></img>
-          <p>{produto.titulo}</p>
-          <p>{produto.preco}</p>
-          <Link href={`/produto/${produto.id}`}>Ver mais</Link>
+      <div className='espaco'>
+      <p className='titulo'>{produto.titulo}</p>
+      <p className='preco'>R$ {produto.preco}</p>
+      </div>
+          <Link href={`/produto/${produto.id}`}><button>Ver mais</button></Link>
         </div>
       ))}
+   </div>
     </main>
   )
 }

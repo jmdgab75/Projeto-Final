@@ -1,5 +1,5 @@
 'use client'
-
+import Header from '../../../../components/nav';
 import { useRouter } from "next/navigation";
 
 export default async function Produto({ params }) {
@@ -8,13 +8,13 @@ export default async function Produto({ params }) {
 
     const idJson = JSON.stringify(id);
 
-    const req = await fetch("http://localhost:3003/produto", {
+    const req = await fetch("http://localhost:3003/produtos", {
         method: "POST",
         cache: "no-cache",
         headers: { 'content-type': 'application/json' },
         body: idJson
     })
-    const pessoa = await req.json();
+    const produto = await req.json();
 
 
     const remover = () => {
@@ -31,13 +31,16 @@ export default async function Produto({ params }) {
         }
     }
     return (
-        <div>
-            <p>{produto.nome}</p>
-            <p>{produto.idade}</p>
-            <p>{produto.uf}</p>
-            <button onClick={e => e.preventDefault(remover())}>REMOVER</button>
-
+        <main>
+        <Header></Header>
+<div className='deta'>
+          <div key={produto.id} className='card2'>
+          <img src={produto.imagem} className='imgproduto'></img>
+          <p className='titulo'>{produto.titulo}</p>
+          <p className='desc'>{produto.descricao}</p>
+         <button onClick={e => e.preventDefault(remover())} >Apagar</button>
         </div>
-
+  </div>
+  </main>
     )
 }

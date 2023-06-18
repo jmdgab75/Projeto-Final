@@ -21,7 +21,7 @@ app.get('/produto', async function(req, res){
   }
 });
 
-app.post('/produto', async function(req, res){
+app.post('/produtos', async function(req, res){
   try {
     var produto = await Produto.selectOne(req.body.id);
     res.json(produto.rows[0]);
