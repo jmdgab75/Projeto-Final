@@ -2,6 +2,7 @@
 import { useState } from 'react'
 import styles from '../cadastro/cadastro.css'
 import { useRouter } from 'next/navigation'
+import Header from '../../../components/nav';
 
 export default function Cadastro() {
     const route = useRouter();
@@ -31,6 +32,8 @@ export default function Cadastro() {
 
     return (
         <div className={styles.main}>
+            <Header></Header>
+            <h1 className='tt'>CADASTRAR PRODUTOS</h1>
                 <form onSubmit={cadastrar}>
                     <input
                         type="text"
@@ -57,9 +60,9 @@ export default function Cadastro() {
                         placeholder='Imagem:'
                         nome="imagem"
                         onChange={e => setImagem(e.target.value)} /><br />
-                    <button type='submit'>Cadastrar</button>
+                    <button type='submit' className='card4'>Cadastrar</button>
                     <div>
-                        <a href='/'>Voltar</a>
+                        <button className='card5'><a href='/'>Voltar</a></button>
                     </div>
                 </form>
             </div>
