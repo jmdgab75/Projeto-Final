@@ -56,7 +56,7 @@ Tecido:	Elasticidade alta
 Material:	Jeans
 Composição:	65% Algodão, 33% Poliéster, 2% Elastano
 Instruções de manutenção:	Lavar à máquina, não lavar a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/05/19/1652934056530addf6fdcf17b9208d487d60453ec1_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/05/19/1652934056530addf6fdcf17b9208d487d60453ec1_thumbnail_600x.jpg'),
 ('Moletom Gola Redonda Sólido', '2023-06-16', '56.99', 'Cor:	Verde Menta
 Estilo:	Casual
 Estampa:	Simples
@@ -70,7 +70,7 @@ Tecido:	Não elástico
 Material:	Tecido de malha
 Composição:	100% Algodão
 Instruções de manutenção:	Lavar à mão, não lavar a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2023/05/26/1685032863ad88e78bd20fe6ff7b7ee5cbbc2ed967_thumbnail_600x.webp');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2023/05/26/1685032863ad88e78bd20fe6ff7b7ee5cbbc2ed967_thumbnail_600x.webp'),
 ('Camiseta Gráfica Letra', '2023-06-18', '32,99', 'Cor:	Azul bebê
 Estilo:	Casual
 Estampa:	Letra
@@ -83,7 +83,7 @@ Tecido:	Elasticidade Média
 Material:	Algodão
 Composição:	100% Algodão
 Instruções de manutenção:	Lavar à máquina, não lavar a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2023/05/25/1685017695bef1053001e7e7cfb6edddfaf38d92d7_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2023/05/25/1685017695bef1053001e7e7cfb6edddfaf38d92d7_thumbnail_600x.jpg'),
 ('Casaco com capuz revestido térmico', '2023-06-16', '176,90', 'Cor:	Preto
 Estilo:	Casual
 Estampa:	Simples
@@ -107,7 +107,7 @@ Tamanho: 36/40cm
 Marca: Gukani
 Cor:	Multicolorido
 Composição:	62% Poliéster, 35% Algodão, 3% Elastano
-Material:	Tecido', 'https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/27/5934749395_1053888/80FF40DC26BCFD2C7D727EFE3739F1A4_thumbnail_600x.jpg');
+Material:	Tecido', 'https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/27/5934749395_1053888/80FF40DC26BCFD2C7D727EFE3739F1A4_thumbnail_600x.jpg'),
 ('Moletons Carta Gráfica Revestido térmico', '2023-06-16', '66.99', 'Cor:	Verde Escuro
 Estilo:	Casual
 Estampa:	Letra
@@ -121,7 +121,7 @@ Tecido:	Não elástico
 Material:	Tecido
 Composição:	95% Poliéster, 5% Elastano
 Instruções de manutenção:	Lavar à mão, não lavar a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/09/29/16644336339e1b4991acb21a91db6957206368b834_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/09/29/16644336339e1b4991acb21a91db6957206368b834_thumbnail_600x.jpg'),
 ('Suéter', '2023-06-17', '62.99', 'Cor:	Caqui
 Estilo:	Casual
 Estampa:	Letra
@@ -136,21 +136,21 @@ Material:	Tecido
 Composição:	100% Poliéster
 Instruções de manutenção:	Lavagem de máquina ou lavagem profissional a seco
 Forro Quente:	Sim
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2021/09/30/1633001968111fefaba1b2e1742a8053e8735a9488_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2021/09/30/1633001968111fefaba1b2e1742a8053e8735a9488_thumbnail_600x.jpg'),
 ('3 peças de boné de beisebol minimalista', '2023-06-16', '51.95', 'Cor:	Multicolorido
 Estilo:	Casual
 Estampa:	Simples
 Tipo:	Boné de baseball
 Composição:	100% Poliéster
-Material:	Tecido', 'https://img.ltwebstatic.com/images3_pi/2021/03/30/1617073512723872ad4cff8cd5f42a936aff003977_thumbnail_600x.jpg');
+Material:	Tecido', 'https://img.ltwebstatic.com/images3_pi/2021/03/30/1617073512723872ad4cff8cd5f42a936aff003977_thumbnail_600x.jpg'),
 ('Luvas e gorro com estampa de letra', '2023-06-16', '30.90', 'Cor:	Bege
 Estilo:	Casual
 Estampa:	Simples
 Tipo:	Luvas, Gorros
 Composição:	100% Acrílica
-Material:	Tecido', 'https://img.ltwebstatic.com/images3_pi/2022/09/20/16636688631346adb9ea39bbf45f6127e029e347e1_thumbnail_600x.jpg');
+Material:	Tecido', 'https://img.ltwebstatic.com/images3_pi/2022/09/20/16636688631346adb9ea39bbf45f6127e029e347e1_thumbnail_600x.jpg'),
 ('Chapéu fedora decoração de cinto', '2023-06-16', '32.99', 'Cor:	Bege
-Material:	Poliéster', 'https://img.ltwebstatic.com/images3_pi/2022/09/02/16620870807b21f498122c581ca6ec380b1e58c4e9_thumbnail_600x.jpg');
+Material:	Poliéster', 'https://img.ltwebstatic.com/images3_pi/2022/09/02/16620870807b21f498122c581ca6ec380b1e58c4e9_thumbnail_600x.jpg'),
 ('Jaqueta', '2023-06-16', '223.90', 'Cor:	Verde Militar
 Estilo:	Casual
 Estampa:	Simples
@@ -169,7 +169,7 @@ Instruções de manutenção:	Lavagem de máquina ou lavagem profissional a seco
 Possui forro:	Forrado
 Translúcido:	Não
 Composição do forro:	100% Poliéster
-Enchimento:	100% Poliéster', 'https://img.ltwebstatic.com/images3_pi/2022/12/15/1671072882afa1685272d00cb5d0027a3d1a31ef1c_thumbnail_600x.jpg');
+Enchimento:	100% Poliéster', 'https://img.ltwebstatic.com/images3_pi/2022/12/15/1671072882afa1685272d00cb5d0027a3d1a31ef1c_thumbnail_600x.jpg'),
 ('Jaquetas de lã com Forro de Pelúcia', '2023-06-16', '164.99', 'Cor:	Preto
 Estilo:	Casual
 Estampa:	Simples
@@ -185,7 +185,7 @@ Tecido:	Elasticidade Baixa
 Material:	Flanela
 Composição:	100% Poliéster
 Instruções de manutenção:	Lavagem de máquina ou lavagem profissional a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/05/25/1653442133891c84e5dcaeaaa1ebd624452d72c384_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/05/25/1653442133891c84e5dcaeaaa1ebd624452d72c384_thumbnail_600x.jpg'),
 ('Casaco de Pelúcia', '2023-06-16', '145.95', 'Cor:	Preto e Branco
 Estilo:	Casual
 Estampa:	Xadrez
@@ -201,7 +201,7 @@ Tecido:	Não elástico
 Material:	Flanela
 Composição:	90% Poliéster, 10% Elastano
 Instruções de manutenção:	Lavagem de máquina ou lavagem profissional a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/10/17/1665968063fe961d656b30e13ba8cbf3473806864d_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/images3_pi/2022/10/17/1665968063fe961d656b30e13ba8cbf3473806864d_thumbnail_600x.jpg'),
 ('blusa tricô regata', '2023-06-16', '35.00', 'Tamanho único, veste do 36 ao 42 devido a boa elasticidade dos fios.
 Nossa prioridade é a sua satisfação, caso não goste ou o tamanho não fique ideal, você pode devolver sem nenhum custo.
 Seu produto será enviado em até 24 horas úteis após a confirmação do pagamento.
@@ -217,7 +217,7 @@ Tecido:	Elasticidade Média, Elasticidade alta
 Material:	Tecido
 Composição:	90% Poliéster, 10% Elastano
 Instruções de manutenção:	Lavar à mão, não lavar a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/15/1986962596_1056201/D949ADFACDFAAC4D87BDD2360F47D0C8_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/15/1986962596_1056201/D949ADFACDFAAC4D87BDD2360F47D0C8_thumbnail_600x.jpg'),
 ('Short Bermuda Jeans', '2023-06-16', '54,99', 'Cor:	Lavagem Média
 Estampa:	Simples
 Tipo:	Perna reta
@@ -230,7 +230,7 @@ Tecido:	Não elástico
 Material:	Jeans
 Composição:	100% Algodão
 Instruções de manutenção:	Lavar à mão, não lavar a seco
-Translúcido:	Não', 'https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/12/9757449195_1009304/AE44114D3D10D3450A17C06EDA1CEC05_thumbnail_600x.jpg');
+Translúcido:	Não', 'https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/12/9757449195_1009304/AE44114D3D10D3450A17C06EDA1CEC05_thumbnail_600x.jpg'),
 ('Chinelos', '2023-06-16', '49.90', 'Cor:	Café
 Tipo:	Pantufas de quarto
 Estilo:	Elegante
